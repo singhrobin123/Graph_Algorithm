@@ -1,5 +1,22 @@
-#include<bits/stdc++.h>
+/**
+ *    author:  Robin 
+ *    created: 06.12.2019 17:30:53       
+**/
+#include <bits/stdc++.h>
 using namespace std;
+#define ll long long int
+#define ull unsigned long long int
+#define ld      long double
+#define pii     pair<long long int ,long long int>
+#define pld     pair<ld ,ld>
+#define F       first
+#define S       second
+#define mod     1000000007
+#define pb      push_back
+#define mp      make_pair
+#define all(x)  x.begin(),x.end()
+#define mset(x) memset(x, 0, sizeof(x));
+#define ios     ios_base::sync_with_stdio(false);cin.tie(0);cout.tie(0);
 
 class dfs
 {
